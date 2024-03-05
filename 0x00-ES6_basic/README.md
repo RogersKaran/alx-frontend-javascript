@@ -1,1 +1,1 @@
-Getting to know the basics of Javascript files.
+Understanding the basics of JavaScript
