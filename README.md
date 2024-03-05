@@ -1,2 +1,1 @@
-# alx-frontend-javascript
-Learning about manipulating websites from the front_end using JavaScript.
+Manipulating the frontend of websites using Javascript
