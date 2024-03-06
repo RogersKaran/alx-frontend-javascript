@@ -1,5 +1,5 @@
 import getNeighborhoodsList from './2-arrow.js';
 
-const neighborhoodList = new getNeighborhoodList();
-const res = neighborhoodList.addNeighborhood('Noe Valley');
+const neighborhoodsList = new getNeighborhoodsList();
+const res = neighborhoodsList.addNeighborhood('Noe Valley');
 console.log(res);
