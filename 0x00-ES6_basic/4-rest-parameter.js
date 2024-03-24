@@ -1,3 +1,3 @@
 export default function returnHowManyArguments(...targs) {
-	return targs.length;
+  return targs.length;
 }
